@@ -1,32 +1,19 @@
-//
-//  DunkCityStatsApp.swift
-//  DunkCityStats
-//
-//  Created by Zuo,Zhen on 2/27/26.
-//
-
 import SwiftUI
-import SwiftData
 
 @main
 struct DunkCityStatsApp: App {
-    var sharedModelContainer: ModelContainer = {
-        let schema = Schema([
-            Item.self,
-        ])
-        let modelConfiguration = ModelConfiguration(schema: schema, isStoredInMemoryOnly: false)
-
-        do {
-            return try ModelContainer(for: schema, configurations: [modelConfiguration])
-        } catch {
-            fatalError("Could not create ModelContainer: \(error)")
-        }
-    }()
+    @StateObject private var dataLoader = DataLoader()
+    @StateObject private var feedbackStore = PlayerFeedbackStore()
+    @StateObject private var favoritesStore = FavoritesStore()
+    @AppStorage("app_language_code") private var appLanguageCode = AppLanguage.english.rawValue
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
+                .environmentObject(dataLoader)
+                .environmentObject(feedbackStore)
+                .environmentObject(favoritesStore)
+                .environment(\.locale, Locale(identifier: appLanguageCode))
         }
-        .modelContainer(sharedModelContainer)
     }
 }

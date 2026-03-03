@@ -1,0 +1,183 @@
+{
+  "mode": "max",
+  "source": "https://dunkcitydynasty.fandom.com/wiki/Category:Characters",
+  "updated_count": 36,
+  "missing_count": 28,
+  "updated_players": [
+    {
+      "player": "Curry",
+      "wiki_title": "Curry"
+    },
+    {
+      "player": "S.G.Alexander",
+      "wiki_title": "S.G. Alexander"
+    },
+    {
+      "player": "Paul",
+      "wiki_title": "Paul"
+    },
+    {
+      "player": "Doncic",
+      "wiki_title": "Doncic"
+    },
+    {
+      "player": "Westbrook",
+      "wiki_title": "Westbrook"
+    },
+    {
+      "player": "Zhou Chang",
+      "wiki_title": "Zhou Chang"
+    },
+    {
+      "player": "Murrary",
+      "wiki_title": "Murray"
+    },
+    {
+      "player": "Hong Shou",
+      "wiki_title": "Hong Shou"
+    },
+    {
+      "player": "Clarkson",
+      "wiki_title": "Clarkson"
+    },
+    {
+      "player": "Thompson",
+      "wiki_title": "Thompson"
+    },
+    {
+      "player": "Booker",
+      "wiki_title": "Booker"
+    },
+    {
+      "player": "Crawford",
+      "wiki_title": "Crawford"
+    },
+    {
+      "player": "Schroder",
+      "wiki_title": "Schroder"
+    },
+    {
+      "player": "Seth Curry",
+      "wiki_title": "Seth Curry"
+    },
+    {
+      "player": "Durant",
+      "wiki_title": "Durant"
+    },
+    {
+      "player": "Wiggins",
+      "wiki_title": "Wiggins"
+    },
+    {
+      "player": "Fu Zhi",
+      "wiki_title": "Fu Zhi"
+    },
+    {
+      "player": "George",
+      "wiki_title": "George"
+    },
+    {
+      "player": "Derozan",
+      "wiki_title": "DeRozan"
+    },
+    {
+      "player": "Hayward",
+      "wiki_title": "Hayward"
+    },
+    {
+      "player": "Peterson",
+      "wiki_title": "Morris Peterson"
+    },
+    {
+      "player": "Johnson",
+      "wiki_title": "Johnson"
+    },
+    {
+      "player": "Antetokounmpo",
+      "wiki_title": "Antetokounmpo"
+    },
+    {
+      "player": "Anderson",
+      "wiki_title": "Anderson"
+    },
+    {
+      "player": "Julio",
+      "wiki_title": "Julio"
+    },
+    {
+      "player": "Williamson",
+      "wiki_title": "Williamson"
+    },
+    {
+      "player": "Kuminga",
+      "wiki_title": "Kuminga"
+    },
+    {
+      "player": "McDyess",
+      "wiki_title": "McDyess"
+    },
+    {
+      "player": "Jokic",
+      "wiki_title": "Jokic"
+    },
+    {
+      "player": "Gasol",
+      "wiki_title": "Gasol"
+    },
+    {
+      "player": "Adebayo",
+      "wiki_title": "Adebayo"
+    },
+    {
+      "player": "Capela",
+      "wiki_title": "Capela"
+    },
+    {
+      "player": "Nurkic",
+      "wiki_title": "Nurkic"
+    },
+    {
+      "player": "Adams",
+      "wiki_title": "Adams"
+    },
+    {
+      "player": "Miller",
+      "wiki_title": "Miller"
+    },
+    {
+      "player": "James",
+      "wiki_title": "James"
+    }
+  ],
+  "missing_players": [
+    "Allen",
+    "Brooks",
+    "Brown",
+    "Butler",
+    "Davis",
+    "Embiid",
+    "Gordon",
+    "Harden",
+    "Ingram",
+    "Irving",
+    "Jackson Jr.",
+    "James16",
+    "Kidd",
+    "Lavine",
+    "Leonard",
+    "Lin",
+    "Lopez",
+    "Malone",
+    "McCollum",
+    "McGrady",
+    "Nowitzki",
+    "Olajuwon",
+    "Porzingis",
+    "Rodman",
+    "Siakam",
+    "Tatum",
+    "Wade",
+    "Wallace"
+  ],
+  "output_csv": "/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/DunkCityStats.csv"
+}

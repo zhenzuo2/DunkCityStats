@@ -1,0 +1,14 @@
+{
+  "total_players": 64,
+  "online_complete_both_modes": 36,
+  "game_screenshot_complete_both_modes": 28,
+  "needs_screenshot_count": 0,
+  "needs_screenshot_players": [],
+  "needs_stats_verification_count": 0,
+  "needs_stats_verification_players": [],
+  "wiki_source": "https://dunkcitydynasty.fandom.com/wiki/Category:Characters",
+  "csv_output": "/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/DunkCityStats.csv",
+  "screenshot_list_csv": "/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/players_need_screenshot.csv",
+  "stats_verification_list_csv": "/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/players_need_stats_verification.csv",
+  "backup_csv": "/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/DunkCityStats.pre_roster_prune_20260302.csv"
+}

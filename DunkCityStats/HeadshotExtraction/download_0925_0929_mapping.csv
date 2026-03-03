@@ -1,0 +1,63 @@
+Player,Position,SourceImage,Slot,CropPath,BarLeft,BarTop,BarRight
+Jokic,C,IMG_0925.PNG,1,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/jokic.png,375,658,619
+Embiid,C,IMG_0925.PNG,2,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/embiid.png,642,658,886
+Davis,C,IMG_0925.PNG,3,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/davis.png,910,658,1153
+Olajuwon,C,IMG_0925.PNG,4,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/olajuwon.png,1177,658,1420
+Gasol,C,IMG_0925.PNG,5,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/gasol.png,1444,658,1687
+Wallace,C,IMG_0925.PNG,6,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/wallace.png,1711,658,1955
+Capela,C,IMG_0925.PNG,7,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/capela.png,1978,658,2222
+Adebayo,C,IMG_0925.PNG,8,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/adebayo.png,2245,658,2489
+Porzingis,C,IMG_0925.PNG,9,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/porzingis.png,375,1032,619
+Lopez,C,IMG_0925.PNG,10,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/lopez.png,642,1032,886
+Nurkic,C,IMG_0925.PNG,11,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/nurkic.png,910,1032,1153
+Adams,C,IMG_0925.PNG,12,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/adams.png,1177,1032,1420
+Miller,C,IMG_0925.PNG,13,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/miller.png,1444,1032,1687
+Antetokounmpo,PF,IMG_0926.PNG,1,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/antetokounmpo.png,375,658,619
+Tatum,PF,IMG_0926.PNG,2,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/tatum.png,642,658,886
+Nowitzki,PF,IMG_0926.PNG,3,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/nowitzki.png,910,658,1153
+Rodman,PF,IMG_0926.PNG,4,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/rodman.png,1177,658,1420
+Malone,PF,IMG_0926.PNG,5,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/malone.png,1444,658,1687
+Towns,PF,IMG_0926.PNG,6,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/towns.png,1711,658,1955
+Williamson,PF,IMG_0926.PNG,7,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/williamson.png,1978,658,2222
+Anderson,PF,IMG_0926.PNG,8,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/anderson.png,2245,658,2489
+Gordon,PF,IMG_0926.PNG,9,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/gordon.png,375,1032,619
+Siakam,PF,IMG_0926.PNG,10,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/siakam.png,642,1032,886
+Jackson Jr.,PF,IMG_0926.PNG,11,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/jackson_jr.png,910,1032,1153
+Kuminga,PF,IMG_0926.PNG,12,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/kuminga.png,1177,1032,1420
+Julio,PF,IMG_0926.PNG,13,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/julio.png,1444,1032,1687
+McDyess,PF,IMG_0926.PNG,14,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/mcdyess.png,1711,1032,1955
+James,SF,IMG_0927.PNG,1,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/james.png,375,658,619
+Durant,SF,IMG_0927.PNG,2,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/durant.png,642,658,886
+Leonard,SF,IMG_0927.PNG,3,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/leonard.png,910,658,1153
+Butler,SF,IMG_0927.PNG,4,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/butler.png,1177,658,1420
+Brown,SF,IMG_0927.PNG,5,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/brown.png,1444,658,1687
+James '16,SF,IMG_0927.PNG,6,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/james_16.png,1711,658,1955
+DeRozan,SF,IMG_0927.PNG,7,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/derozan.png,1978,658,2222
+Wiggins,SF,IMG_0927.PNG,8,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/wiggins.png,2245,658,2489
+George,SF,IMG_0927.PNG,9,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/george.png,375,1032,619
+Ingram,SF,IMG_0927.PNG,10,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/ingram.png,642,1032,886
+Brooks,SF,IMG_0927.PNG,11,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/brooks.png,910,1032,1153
+Hayward,SF,IMG_0927.PNG,12,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/hayward.png,1177,1032,1420
+Johnson,SF,IMG_0927.PNG,13,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/johnson.png,1444,1032,1687
+Fu Zhi,SF,IMG_0927.PNG,14,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/fu_zhi.png,1711,1032,1955
+Peterson,SF,IMG_0927.PNG,15,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/peterson.png,1978,1032,2222
+Harden,SG,IMG_0928.PNG,1,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/harden.png,375,658,619
+Allen,SG,IMG_0928.PNG,2,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/allen.png,642,658,886
+Thompson,SG,IMG_0928.PNG,3,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/thompson.png,910,658,1153
+Booker,SG,IMG_0928.PNG,4,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/booker.png,1177,658,1420
+LaVine,SG,IMG_0928.PNG,5,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/lavine.png,1444,658,1687
+McCollum,SG,IMG_0928.PNG,6,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/mccollum.png,1711,658,1955
+Clarkson,SG,IMG_0928.PNG,7,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/clarkson.png,1978,658,2222
+Seth Curry,SG,IMG_0928.PNG,8,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/seth_curry.png,2245,658,2489
+Schroder,SG,IMG_0928.PNG,9,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/schroder.png,375,1032,619
+Crawford,SG,IMG_0928.PNG,10,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/crawford.png,642,1032,886
+Curry,PG,IMG_0929.PNG,1,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/curry.png,375,658,619
+Kidd,PG,IMG_0929.PNG,2,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/kidd.png,642,658,886
+S.G. Alexander,PG,IMG_0929.PNG,3,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/s_g_alexander.png,910,658,1153
+Westbrook,PG,IMG_0929.PNG,4,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/westbrook.png,1177,658,1420
+Paul,PG,IMG_0929.PNG,5,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/paul.png,1444,658,1687
+Doncic,PG,IMG_0929.PNG,6,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/doncic.png,1711,658,1955
+Murray,PG,IMG_0929.PNG,7,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/murray.png,1978,658,2222
+Ball,PG,IMG_0929.PNG,8,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/ball.png,2245,658,2489
+Zhou Chang,PG,IMG_0929.PNG,9,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/zhou_chang.png,375,1032,619
+Hong Shou,PG,IMG_0929.PNG,10,/Users/zzuo1/Documents/DunkCityStats/DunkCityStats/HeadshotExtraction/from_downloads_0925_0929/hong_shou.png,642,1032,886
