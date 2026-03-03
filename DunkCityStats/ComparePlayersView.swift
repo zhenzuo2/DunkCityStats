@@ -303,7 +303,7 @@ struct ComparePlayersView: View {
     }
 
     private func joinedMetricNames(_ names: [String]) -> String {
-        ListFormatter.localizedString(byJoining: names) ?? names.joined(separator: ", ")
+        ListFormatter.localizedString(byJoining: names)
     }
 
     private func setDefaultSelectionIfNeeded() {
